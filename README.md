@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+While building functionalities within the app, I ran into trouble adding an edit feature that allows a user to long hold and edit a specific entry.
 
 ## License
 
